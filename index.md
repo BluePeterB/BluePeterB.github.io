@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
    <head>
 
@@ -185,12 +185,5 @@
       </footer>
 	</body>
 </html>
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
 
 
